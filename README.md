@@ -1,0 +1,1 @@
+This repo contains data and analysis code for my blogpost on analyzing [MBTI type using LLMs](TODO)
