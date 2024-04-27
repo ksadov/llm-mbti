@@ -1,1 +1,1 @@
-This repo contains data and analysis code for my blogpost on analyzing [MBTI type using LLMs](TODO)
+This repo contains data and analysis code for my blogpost on analyzing [MBTI type using LLMs](https://www.ksadov.com/posts/2024-04-27-llm-mbti.html)
